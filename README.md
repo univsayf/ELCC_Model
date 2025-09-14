@@ -1,1 +1,2 @@
 # ELCC_Model
+This is a model that is meant to take the load profile of a utility and its existing MW of generation stack by technology (e.g., wind, solar, BESS, neuclear, etc.) as inputs. The model will then consider how the ELCC value of incremental geneartion by technology will change based on addition of new resources. The out put will be a curve of marginal ELCC values for incremental, say, 100 MW of resources by technology types (mainly renewables, including wind, solar, BESS, simple cycel and combined cycle gas plants).
